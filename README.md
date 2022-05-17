@@ -11,5 +11,5 @@ heart_attack_deploy.py is a script for deployment.
 
 # credits
 Shoutout to Rashik Rahman for the data.
-Checkout his github repo at
+Checkout his page at
 https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
